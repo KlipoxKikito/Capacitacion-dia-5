@@ -17,6 +17,12 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
+    color: #ee0f0f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
 p {
     color: #666;
     font-size: 16px;
